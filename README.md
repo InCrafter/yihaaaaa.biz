@@ -28,6 +28,7 @@ Unserer bester Vorschlag für eine Subnetzmaske wäre 255.255.255.192, in diesem
 | Router       | Ubiquite EdgeRouter X           | 1      | 59 CHF      |
 | Access point | Ubiquiti Access Point           | 1      | 199 CHF     |
 | Firewall     | PC Engine apu2c4                | 1      | 304 CHF     |
+| **Total**     |        |       | 179’912 CHF     |
 
 ## Subnet-table
 
