@@ -5,7 +5,7 @@
 
 #### Was für Geräte werden benötigt, damit diese Netzwerk-Infrastruktur aufgebaut werden kann?
 
-Für unsere Infrastruktur brauc.hen wir einen Router, einen Accesspoint, Firewall, Switches sowie Workstations.
+Für unsere Infrastruktur brauchen wir einen Router, einen Accesspoint, Firewall, Switches sowie Workstations.
 
 ---
 
