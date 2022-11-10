@@ -56,3 +56,5 @@ PR-AP-001 (Access Point)
 PR-PR-001 (Drucker)
 
 ## Netzwerkplan
+
+[![plan](/Planungsarbeiten/Netzwerkplan.png)](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)
