@@ -1,5 +1,7 @@
 # Firma yihaaaaa.biz
 
+## [Betriebshandbuch](https://github.com/InCrafter/yihaaaaa.biz/wiki "yihaaaaa.biz Wiki")
+
 ## Antworten zu den Fragen
 
 
