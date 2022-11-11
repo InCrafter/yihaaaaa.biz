@@ -49,17 +49,15 @@ Unserer bester Vorschlag für eine Subnetzmaske wäre 255.255.255.192, in diesem
 | Reserve      | 172.16.0.34 | 172.16.0.62 |
 | Broadcast    | 172.16.0.63 |             |
 
-## Namenskovention
+## Namenskonvetion
 
-**{Abteilung}-{Gerät Abkürzung}-{3 Stellige Zahl}**
-Beispiel: **PR-RT-001**
-**Produktion-Router-001**
-
-weitere Beispiele:
-PR-FW-001 (Firewall)
-PR-WS-001 (PC)
-PR-SW-001 (Switch)
-PR-AP-001 (Access Point)
+**{Abteilung}-{Gerät Abkürzung}-{3 Stellige Zahl}**\
+\
+PR-FW-001 (Firewall)\
+PR-RT-001 (Router)\
+PR-WS-001 (PC)\
+PR-SW-001 (Switch)\
+PR-AP-001 (Access Point)\
 PR-PR-001 (Drucker)
 
 ## Netzwerkplan
