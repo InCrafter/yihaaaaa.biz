@@ -4,8 +4,6 @@
 
 ## Testprotokoll
 
-## Checkliste
-
 - Router hat Zugriff auf das WLAN
 - Router hat DHCP und vergibt IP-Adressen in der Range 172.16.0.8 - 172.16.0.33
 - Router ist an der Firewall angesteckt
