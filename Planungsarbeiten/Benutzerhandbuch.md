@@ -17,7 +17,7 @@ PR-PR-001 (Drucker)
 ![](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)\
 Hierarchie:\
 Wi-Fi: Router > Firewall > Switch1 > Access Point\
-Kabel: Router > Firewall > Switch1 > Switch2/Switch3/Switch4 > Kabel\
+Kabel: Router > Firewall > Switch1 > Switch2/Switch3/Switch4 > Kabel
 
 ## Subnet-table
 
