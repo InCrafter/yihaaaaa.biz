@@ -1,6 +1,6 @@
 ## Namenskonvetion
 
-**{Abteilung}-{Gerät Abkürzung}-{3 Stellige Zahl}**\
+**{Abteilung}-{Gerät Abkürzung}-{3-Stellige Zahl}**\
 \
 PR-FW-001 (Firewall)\
 PR-RT-001 (Router)\

@@ -65,7 +65,7 @@ Unserer bester Vorschlag für eine Subnetzmaske wäre 255.255.255.192, in diesem
 
 ## Namenskonvetion
 
-**{Abteilung}-{Gerät Abkürzung}-{3 Stellige Zahl}**\
+**{Abteilung}-{Gerät Abkürzung}-{3-Stellige Zahl}**\
 \
 PR-FW-001 (Firewall)\
 PR-RT-001 (Router)\
