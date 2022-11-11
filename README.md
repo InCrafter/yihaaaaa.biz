@@ -61,10 +61,13 @@ Unserer bester Vorschlag für eine Subnetzmaske wäre 255.255.255.192, in diesem
 | Reserve      | 172.16.0.34 | 172.16.0.62 |
 | Broadcast    | 172.16.0.63 |             |
 
-## Namenskonvetion
-
-**{Abteilung}-{Gerät Abkürzung}-{3-Stellige Zahl}**\
+# Namenskonvention
 \
+Die Namenskonvention haben wir in 3 Abschnitte, Abteilung, Gerät-Abkürzung und eine 3-Stellige Zahl, die von 000 anfangt.
+**{Abteilung Kürzel, 2 Buchstaben}-{Gerät Kürzel, 2 Buchstaben}-{3-stellige Zahl, die von 0 anfängt}**\
+
+\
+Beispiele:\
 PR-FW-001 (Firewall)\
 PR-RT-001 (Router)\
 PR-WS-001 (PC)\
