@@ -17,7 +17,20 @@ PR-PR-001 (Drucker)
 ![](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)\
 Hierarchie:\
 Wi-Fi: Router > Firewall > Switch1 > Access Point\
-Kabel: Router > Firewall > Switch1 > Switch2/Switch3/Switch4 > Kabel
+Kabel: Router > Firewall > Switch1 > Switch2/Switch3/Switch4 > Kabel\
+
+## Subnet-table
+
+| Gerät        | Start-IP    | End-IP      |
+|--------------|-------------|-------------|
+| Netzwerk-ID  | 172.16.0.0  |             |
+| Router       | 172.16.0.1  |             |
+| Firewall     | 172.16.0.2  |             |
+| Switch       | 172.16.0.3  | 172.16.0.6  |
+| Access-Point | 172.16.0.7  |             |
+| Workstation  | 172.16.0.8  | 172.16.0.33 |
+| Reserve      | 172.16.0.34 | 172.16.0.62 |
+| Broadcast    | 172.16.0.63 |             |
 
 # Router
 IP-Adresse: 172.16.0.1\
