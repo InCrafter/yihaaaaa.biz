@@ -77,5 +77,5 @@ PR-PR-001 (Drucker)
 
 ## Netzwerkplan
 
-[![plan](/Planungsarbeiten/Netzwerkplan.png)](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)
-[![plan](/Planungsarbeiten/Physical.png)](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)
+[![logischer Plan](/Planungsarbeiten/Netzwerkplan.png)](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)
+[![Physischer Plan](/Planungsarbeiten/Physical.png)](https://github.com/InCrafter/yihaaaaa.biz/blob/main/Planungsarbeiten/Netzwerkplan.png)
