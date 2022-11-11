@@ -3,7 +3,7 @@ Welcome to the yihaaaaa.biz user Guide!
 # Namenskonvention
 \
 Die Namenskonvention haben wir in 3 Abschnitte, Abteilung, Gerät-Abkürzung und eine 3-Stellige Zahl, die von 000 anfangt.
-**{Abteilung Kürzel, 2 Buchstaben}-{Gerät Kürzel, 2 Buchstaben}-{3-stellige Zahl, die von 000 anfängt}**\
+**{Abteilung Kürzel, 2 Buchstaben}-{Gerät Kürzel, 2 Buchstaben}-{3-stellige Zahl, die von 000 anfängt}**
 
 \
 Beispiele:\
