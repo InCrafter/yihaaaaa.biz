@@ -4,7 +4,21 @@
 
 ## Testprotokoll
 
-Sobald es lauft mus ich ufschriebe was mer alles chan
+## Checkliste
+
+- Router hat Zugriff auf das WLAN
+- Router hat DHCP und vergibt IP-Adressen in der Range 172.16.0.8 - 172.16.0.33
+- Router ist an der Firewall angesteckt
+- Firewall lässt Informationen von dem Router durch sich durch und filtert
+- Firewall ist an Switch angehenkt
+- Laptop ist an Switch angehenkt
+- Access Point ist an Switch angehenkt
+- Switch nimmt Informationen auf und verteilt diese
+- Switch ist an Access Point angehenkt
+- Switch gibt LAN an Access Point
+- Access Point ist an POE-Stecker angehenkt
+- POE-Stecker gibt LAN weiter und Strom an den Access Point
+- Access Point gibt WLAN und macht es öffentlich
 
 ## Antworten zu den Fragen
 
